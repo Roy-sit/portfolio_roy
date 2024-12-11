@@ -1,9 +1,4 @@
 
-@import url('https://cdn.tailwindcss.com');
-
-
-
-
 *, *::before, *::after {
   box-sizing: border-box;
 }
